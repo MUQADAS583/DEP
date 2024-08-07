@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MUQADAS Abid Mehmood  <h1>
+        </h1>   Home Tutor | Web Developer |Project Assistant</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#hobbies">Hobbies</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm  am a highly organized, passionate, and hardworking individual looking for a challenging role in a reputable organization to utilize my skills for the organization's growth and to enhance my knowledge, and gain practical experience.</p>
+           <p> PRIVATE TUTOR (2018 to Present)</p>
+ <p> As a dedicated private tutor, I provided comprehensive academic support to 6th to 12th-grade students, specializing in Mathematics, Physics, Computers. Leveraging my in-depth knowledge and passion for these subjects, I tailored lessons to individual learning styles, fostering a conducive and engaging learning environment.</p>
+   
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>Project management</li>
+            <li>Interpersonal Skills</li>
+        </ul>
+    
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Coding</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me at:</p>
+        <ul>
+            <li>Email: <a href="mailto:example@example.com">muqadasabid126@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/example" target="_blank">https://www.linkedin.com/in/muqadas-abid-mehmood-b5a1a6316/</a></li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 My Profile. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
